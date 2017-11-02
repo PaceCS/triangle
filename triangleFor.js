@@ -1,14 +1,15 @@
 // triangleFor takes an input n and logs to the console a one-sided triangle of hashmarks w/ a height of n
 
 function triangleFor(n) {
-    for() {
-        // row will hold the string to be printed on this row
-        let row = '#';
-        for() {
+    // row will hold the string to be printed on the row
+    let row = '#';
 
-        }
+    // Fill in the _ in the for loop below with the correct values
+    for (let counter = _; counter < _; counter += 1) {
         console.log(row);
+        row += '#';
     }
+
 }
 
 
