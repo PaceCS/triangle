@@ -4,8 +4,8 @@ function triangleFor(n) {
     // row will hold the string to be printed on the row
     let row = '#';
 
-    // Fill in the _ in the for loop below with the correct values
-    for (let counter = _; counter < _; counter += 1) {
+    // Fill in the for loop below with the correct conditions
+    for (let counter =/*Put initial condition here*/; counter < /*Put final condition here*/; counter += 1) {
         console.log(row);
         row += '#';
     }

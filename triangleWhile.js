@@ -7,7 +7,7 @@ function triangleWhile(n) {
     let counter = 0;
 
     // Fill in the while loop with the right condition on counter
-    while() {
+    while(/*Put the right condition here*/) {
         console.log(row);
         counter += 1;
     }
