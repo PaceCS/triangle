@@ -1,6 +1,5 @@
 // triangleWhile takes an input n and logs to the console a one-sided triangle of hashmarks w/ a height of n
-
-function triangleWhile(n) {
+function triangleWhile(userInput) {
     // row will hold the string to be printed on this row
     let row = '#';
     // counter will hold the value of the counter
