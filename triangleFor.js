@@ -11,7 +11,7 @@ function triangleFor(userInput) {
 
 }
 
-
+//Try out your function here.
 triangleFor(5);
 
 
@@ -41,7 +41,7 @@ console.log = function log(d) {
 };
 const N = 4;
 triangleFor(N);
-printme('Testing...');
+printme('\n Testing...');
 printme(`\t did you print the proper number of lines?\t ${out.length == N} `);
 let val = true;
 for (let i = 0; i < N; i += 1) {

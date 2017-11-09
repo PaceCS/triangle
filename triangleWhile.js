@@ -13,6 +13,7 @@ function triangleWhile(userInput) {
 }
 
 
+//Try out your function here.
 triangleWhile(5);
 
 
@@ -42,7 +43,7 @@ console.log = function log(d) {
 };
 const N = 4;
 triangleWhile(N);
-printme('Testing...');
+printme('\n Testing...');
 printme(`\t did you print the proper number of lines?\t ${out.length == N} `);
 let val = true;
 for (let i = 0; i < N; i += 1) {
